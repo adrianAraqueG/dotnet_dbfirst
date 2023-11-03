@@ -1,0 +1,9 @@
+API/obj/
+API/bin/
+Core/bin/
+Core/obj/
+Infrastructure/bin/
+Infrastructure/obj/
+obj/
+bin/Debug/net7.0
+bin/
